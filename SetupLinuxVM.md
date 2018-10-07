@@ -1,9 +1,9 @@
 1. Download Ubuntu Desktop ISO from https://www.ubuntu.com/ .
 
 2. Open VirtualBox and click on New. Enter below details:
-- Name: SparkTwitter (or whatever name you like)
-- Type: Linux
-- Version: 32-bit/64-bit
+	- Name: SparkTwitter (or whatever name you like)
+	- Type: Linux
+	- Version: 32-bit/64-bit
 	
 3. Set memory size 4 to 8 GB (Min. 4 GB, more the better).
 
