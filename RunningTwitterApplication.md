@@ -1,6 +1,6 @@
 # Running the application:
 
-1. For running the application, you will require access tokens from Twitter. If you dont have, refer <a href='https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html'> this</a>.
+1. For running the application, you will require access tokens from Twitter. If you don't have, refer <a href='https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html'> this</a>.
 
 2. Before running the application, make sure that you have installed Twitter's tweepy API and findspark
     ```
