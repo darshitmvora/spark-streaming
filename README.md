@@ -7,3 +7,5 @@ This repository contain the steps to install Apache Spark, and run an applicatio
 If you have a windows system, you need to create a linux virtual machine. Instructions are given in SetupLinuxVM.md.
 
 Refer SetupSparkEnvironment.md to install and setup Spark.
+
+RunningTwitterApplication.md explains how to run the application.
