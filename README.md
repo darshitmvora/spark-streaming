@@ -4,6 +4,6 @@
 
 This repository contain the steps to install Apache Spark, and run an application that consumes the twitter's real-time stream and performs transformation on the data.
 
-If you already have a linux system, refer SetupSparkEnvironment.md to install and setup Spark.
-
 If you have a windows system, you need to create a linux virtual machine. Instructions are given in SetupLinuxVM.md.
+
+Refer SetupSparkEnvironment.md to install and setup Spark.
