@@ -17,11 +17,11 @@
 
 8. Click Create.
 
-9. Goto the Settings of the machine creted.
+9. Goto the Settings of the machine created.
 
-9. Goto System. Goto Processor. Allocate the maximum allowed CPU within green bar range.
+9. Goto System. Goto Processor. Allocate the maximum allowed CPU within the green bar range.
 
-10. Goto Display. Goto Screen. Allocate Video Memore ~80 MB. Enable 3D Acceleration. Click OK.
+10. Goto Display. Goto Screen. Allocate Video Memory ~80 MB. Enable 3D Acceleration. Click OK.
 
 11. Start the virtual machine and selected the downloaded ISO in Step 1.
 
@@ -31,4 +31,4 @@
 
 14. Follow the next steps intuitively.
 
-15. Once done with installation, Restart the VM.
+15. Once done with the installation, Restart the VM.
