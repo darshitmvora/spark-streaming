@@ -1,6 +1,6 @@
 Follow the below steps to install and setup Spark for executing Spark Application:
 
-1. Open the Terminal. Type ```python``` and enter, to check whether python is installed. Also check for ```python3```.
+1. Open the Terminal. Type ```python``` and enter, to check whether python is installed. Also, check for ```python3```.
 
 2. Install pip.
     - To do this, we install cURL. cURL is a tool to transfer data from or to a server.
@@ -19,7 +19,7 @@ Follow the below steps to install and setup Spark for executing Spark Applicatio
 
 4. Type ```jupyter notebook``` on the terminal to check whether jupyter is installed properly. 
 
-5. As we are using jupyter notebook for the first time, copy and paste the kernel URL (from the of terminal), to check we are able to access it.
+5. As we are using jupyter notebook for the first time, copy and paste the kernel URL (from the terminal), to check we are able to access it.
 
 6. Install java. Spark is written in Scala, but scala runs on top of the Java virtual machine.
     ```
