@@ -17,7 +17,7 @@
 
 5. Before running TweetRead.py, setup ```consumer_key```, ```consumer_secret```, ```access_token``` and ```access_secret``` (these can be found from step 1).
 
-6. Now open another terminal and run TweetRead.py.
+6. Now open another terminal and run TweetRead.py (this will start reading the tweets).
     ```
     python3 TweetRead.py
     ```
