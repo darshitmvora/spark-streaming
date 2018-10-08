@@ -25,5 +25,4 @@
  
 6. Run next blocks, before ```ssc.stop()```.
 
-7. Now you can see real-time top tags from the tweet stream related to cricket.
-
+7. Now you can see real-time top tags from the tweet stream related to cricket in the seaborn bar.
